@@ -9,6 +9,8 @@ It draws from the code found in their [original repository](https://github.com/s
 Our experiments can be found in `Experiments.ipynb`.
 To run it, first run the `jupyter notebook` command, and execute the notebook in the console.
 
+Alternatively, run it on [Google Colaboratory](https://colab.research.google.com/github/olivierjeunen/disentangling-neurips-2022/blob/main/Experiments.ipynb).
+
 ## Paper
 If you use our code in your research, please remember to cite our paper:
 
