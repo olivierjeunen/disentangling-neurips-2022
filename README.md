@@ -19,7 +19,7 @@ If you use our code in your research, please remember to cite our paper:
       author = {Jeunen, Olivier and Gilligan-Lee, Ciarán M. and Mehrotra, Rishabh and Lalmas, Mounia},
       title = {Disentangling Causal Effects from Sets of Interventions in the Presence of Unobserved Confounders},
       booktitle = {Advances in Neural Information Processing Systems},
-      volume = {35},
+      volume = {36},
       series = {NeurIPS '22},
       year = {2022}
     }
